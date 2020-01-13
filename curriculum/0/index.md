@@ -1,6 +1,7 @@
 # Chapter 0
 
 * [Notes](notes)
+
 * Problem
   * [Scratch](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html)
 * [Slides](https://cdn.cs50.net/2018/fall/lectures/0/lecture0.pdf)
